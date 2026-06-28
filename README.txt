@@ -1,0 +1,1 @@
+Copy your photos as 1.jpg,2.jpg... into photos folder. Optional: add music.mp3.
