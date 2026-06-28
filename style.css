@@ -423,14 +423,17 @@ height:180px;
 
 }
 
-
+}
 
 .surprise-section{
     text-align:center;
     padding:80px 20px;
 }
-
+.surprise-section h2{
+    margin-bottom:30px;
+}
 .surprise-btn{
+    display:inline-block;
     background:#ff4fa0;
     color:white;
     border:none;
@@ -438,7 +441,8 @@ height:180px;
     font-size:22px;
     border-radius:40px;
     cursor:pointer;
-    transition:0.3s;
+    transition:.3s;
+    margin:auto;
 }
 
 .surprise-btn:hover{
